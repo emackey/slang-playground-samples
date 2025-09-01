@@ -1,3 +1,7 @@
+// Conway's Game of Life, with trails and colors added.
+// by Ed Mackey and other contributors.
+// License: https://creativecommons.org/publicdomain/zero/1.0/
+
 import playground;
 
 const static int STATE_LIVE = -1;
